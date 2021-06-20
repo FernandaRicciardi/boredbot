@@ -13,7 +13,7 @@ p {
 }
 
 .container {
-    width: 400px;
+    width: 360px;
     height: 60vh;
     margin: auto;
     border-radius: 10px;
@@ -34,8 +34,8 @@ h3 {
 }
 
 button {
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
     border-radius: 50%;
     background-color: #dc2f02;
     border: 1px solid darkred;
